@@ -13,6 +13,7 @@
         <nexus.ip>192.168.43.112</nexus.ip>
     </properties>
 
+
     <repositories>
         <repository>
             <id>nexus</id>
